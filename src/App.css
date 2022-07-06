@@ -38,8 +38,8 @@
 }
 
 li{
-  list-style-type:circle;
-
+  /* list-style-type:circle; */
+  list-style-type:none;
 }
 
 body{
@@ -47,6 +47,10 @@ body{
   color: #4b3333;
 }
 
+menu{
+  /* display: flex;
+  justify-content:right; */
+}
 tbody{
   /* justify-content: center; */
   display:inline-table;

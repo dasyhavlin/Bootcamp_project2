@@ -1,7 +1,7 @@
 import { products } from "./View";
 import { IProduct } from './IProduct'
 import Product from './Product'
-import { Link, Outlet  } from "react-router-dom";
+import { Link, Outlet  } from 'react-router-dom'
 import Button from 'react-bootstrap/Button';
 import Edit from './Edit'
 import React, { Component } from 'react';

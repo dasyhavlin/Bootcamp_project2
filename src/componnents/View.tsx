@@ -17,6 +17,7 @@ export let products: IProduct[] = [
         Id: 4,
     }
 ];
+localStorage.setItem('productsList',JSON.stringify(products));
 
 
 // export Array<Product> = ({ product: , productType: ProductType});
