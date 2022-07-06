@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+li{
+  list-style-type:circle;
+
+}
+
+body{
+  background-color:#fff7ee;
+  color: #4b3333;
+}
+
+tbody{
+  /* justify-content: center; */
+  display:inline-table;
+}
